@@ -8,7 +8,7 @@ export const CONTACT_DETAILS: ContactInfo = {
   address: "678 N Ranch Rd, Fair Grove, MO 65648, United States",
   location: "Fair Grove & Surrounding Areas",
   phone: "+1 417-403-6731",
-  email: "theresa.cox@tmccleaning.com"
+  email: "tmccleaningservices7476@gmail.com"
 };
 
 export const WHATSAPP_NUMBERS = [
